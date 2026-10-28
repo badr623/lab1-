@@ -130,3 +130,10 @@ The repository contains only the three package folders and this README.
 ros2 launch lab1_bringup demo.launch.py
 ```
 Starts the system, then tests R1 to R7 one after the other and prints the result of each.
+
+## Demo launch (all requirements in one run)
+
+```bash
+ros2 launch lab1_bringup demo.launch.py
+```
+Starts the system, then tests R1 to R7 one after the other and prints the result of each.
