@@ -123,3 +123,10 @@ The node reads the limits every control cycle, so changes take effect while the 
 **R8: Packages**
 
 The repository contains only the three package folders and this README.
+
+## Demo launch (all requirements in one run)
+
+```bash
+ros2 launch lab1_bringup demo.launch.py
+```
+Starts the system, then tests R1 to R7 one after the other and prints the result of each.
